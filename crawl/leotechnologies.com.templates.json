@@ -1,0 +1,2528 @@
+{
+  "tool": "suite-builder",
+  "kind": "templates",
+  "version": 2,
+  "startUrl": "https://leotechnologies.com/",
+  "origin": "https://leotechnologies.com",
+  "pagesRead": 43,
+  "menu": [
+    {
+      "to": "https://leotechnologies.com/about/",
+      "href": "https://leotechnologies.com/about/",
+      "text": "About overview",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "about"
+    },
+    {
+      "to": "https://leotechnologies.com/about",
+      "href": "https://leotechnologies.com/about#mission",
+      "text": "Company mission",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": null
+    },
+    {
+      "to": "https://leotechnologies.com/news-resources/",
+      "href": "https://leotechnologies.com/news-resources/",
+      "spellings": [
+        "https://leotechnologies.com/news-resources/#customer-stories"
+      ],
+      "text": "News & resources",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "news-resources"
+    },
+    {
+      "to": "https://leotechnologies.com/careers/",
+      "href": "https://leotechnologies.com/careers/",
+      "text": "Careers",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "careers"
+    },
+    {
+      "to": "https://leotechnologies.com/contact/",
+      "href": "https://leotechnologies.com/contact/",
+      "text": "Contact",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "contact"
+    },
+    {
+      "to": "https://leotechnologies.com/request-a-demo/",
+      "href": "https://leotechnologies.com/request-a-demo/",
+      "text": "Request Demo",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "request-ademo"
+    },
+    {
+      "to": "https://leotechnologies.com/product-overview/",
+      "href": "https://leotechnologies.com/product-overview/",
+      "text": "Product Overview",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "product-overview"
+    },
+    {
+      "to": "https://leotechnologies.com/verus-ion/",
+      "href": "https://leotechnologies.com/verus-ion/",
+      "text": "Verus ION",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "verus-ion"
+    },
+    {
+      "to": "https://leotechnologies.com/verus-ai/",
+      "href": "https://leotechnologies.com/verus-ai/",
+      "text": "Verus AI",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "verus-ai"
+    },
+    {
+      "to": "https://leotechnologies.com/verus-voice-ai/",
+      "href": "https://leotechnologies.com/verus-voice-ai/",
+      "text": "Verus Voice AI",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "verus-voice-ai"
+    },
+    {
+      "to": "https://leotechnologies.com/verus-vision-ai/",
+      "href": "https://leotechnologies.com/verus-vision-ai/",
+      "text": "Verus Vision AI",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "verus-vision-ai"
+    },
+    {
+      "to": "https://leotechnologies.com/solutions-overview/",
+      "href": "https://leotechnologies.com/solutions-overview/",
+      "text": "Solutions overview",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "solutions-overview"
+    },
+    {
+      "to": "https://leotechnologies.com/ai-for-wellness/",
+      "href": "https://leotechnologies.com/ai-for-wellness/",
+      "text": "AI for wellness",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "ai-for-wellness"
+    },
+    {
+      "to": "https://leotechnologies.com/ai-for-communications/",
+      "href": "https://leotechnologies.com/ai-for-communications/",
+      "text": "AI for communications",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "ai-for-communications"
+    },
+    {
+      "to": "https://leotechnologies.com/ai-for-video/",
+      "href": "https://leotechnologies.com/ai-for-video/",
+      "text": "AI for video",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "ai-for-video"
+    },
+    {
+      "to": "https://leotechnologies.com/ai-for-facility-operations/",
+      "href": "https://leotechnologies.com/ai-for-facility-operations/",
+      "text": "AI for facility operations",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "ai-for-facility-operations"
+    },
+    {
+      "to": "https://leotechnologies.com/ai-for-voice-biometrics/",
+      "href": "https://leotechnologies.com/ai-for-voice-biometrics/",
+      "text": "AI for voice biometrics",
+      "hidden": true,
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "ai-for-voice-biometrics"
+    },
+    {
+      "to": "https://leotechnologies.com/partnerships/",
+      "href": "https://leotechnologies.com/partnerships/",
+      "text": "Partnerships",
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "partnerships"
+    },
+    {
+      "to": "https://leotechnologies.com/dir",
+      "href": "https://leotechnologies.com/dir",
+      "text": "DIR-CPO-5165",
+      "region": "footer",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "dir"
+    },
+    {
+      "to": "https://leotechnologies.com/dir/",
+      "href": "https://leotechnologies.com/dir/",
+      "text": "DIR-CPO-5293",
+      "region": "footer",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "dir"
+    },
+    {
+      "to": "https://leotechnologies.com/dir-cpo-6149/",
+      "href": "https://leotechnologies.com/dir-cpo-6149/",
+      "text": "DIR-CPO-6149",
+      "region": "footer",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "dir-cpo"
+    },
+    {
+      "to": "https://leotechnologies.com/privacy-policy/",
+      "href": "https://leotechnologies.com/privacy-policy/",
+      "text": "Privacy policy",
+      "region": "footer",
+      "seenOn": "https://leotechnologies.com/",
+      "template": "privacy-policy"
+    },
+    {
+      "to": "https://leotechnologies.com/",
+      "href": "https://leotechnologies.com",
+      "text": "LeoTech Logo",
+      "region": "header",
+      "seenOn": "https://leotechnologies.com/privacy-policy/",
+      "template": "home"
+    }
+  ],
+  "templates": [
+    {
+      "id": "home",
+      "name": "HomePage",
+      "urlPatterns": [
+        "/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "The new operatingmodel for moderncorrections",
+        "Corrections andLaw EnforcementOrganizations (LEOs) choose LeoTech",
+        "Proven return on Investment (ROI)",
+        "Unified intelligence tool",
+        "AI-powered analysis",
+        "Our partners",
+        "From staffing shortages and manual workload to a modern operating model",
+        "With LeoTech",
+        "Multi-source intelligence fusion",
+        "Cross-system risk correlation",
+        "Real-time threat prioritization",
+        "Facility-wide pattern detection",
+        "Inter-agency coordination & response",
+        "Three tiers of AI-powered intelligence",
+        "Semantic AI",
+        "Trade associations sponsorships",
+        "Real impact,real results",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous"
+          ],
+          "region": "main",
+          "xpath": "(//main[@id='top']//button[@aria-label='Previous'])[1]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next"
+          ],
+          "region": "main",
+          "xpath": "(//main[@id='top']//button[@aria-label='Next'])[1]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "A workforce multiplier for corrections LeoTech is built t..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[1]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Real ROI through operational efficiency This is not incre..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[2]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Earlier intervention for wellness and safety Risk develop..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[3]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "All your data in one operational view Correctional facili..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[4]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Global search across every system Verus ION introduces tr..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[5]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Automated operations that return time to staff Routine pr..."
+          ],
+          "region": "main",
+          "xpath": "//main[@id='top']//div[div/a[normalize-space()='Discover What Sets Us Apart']]/div[6]/button",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Intelligence that understands behavior, not just keywords..."
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Intelligence that understands')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Built for operators, not technologists Technology should..."
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Built for operators, not technologists')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Technology backed by real support Effective deployment re..."
+          ],
+          "region": "main",
+          "xpath": "//button[starts-with(normalize-space(),'Technology backed by real support')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous"
+          ],
+          "region": "main",
+          "xpath": "(//main[@id='top']//button[@aria-label='Previous'])[2]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next"
+          ],
+          "region": "main",
+          "xpath": "(//main[@id='top']//button[@aria-label='Next'])[2]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/"
+        }
+      ],
+      "why": {
+        "rule": "start-page",
+        "says": "the start page: always a page type of its own, since every test starts there"
+      }
+    },
+    {
+      "id": "privacy-policy",
+      "name": "PrivacyPolicyPage",
+      "urlPatterns": [
+        "/privacy-policy/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/privacy-policy/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Privacy policy"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /partners/aws-partner/, shares 81% of its layout)"
+      }
+    },
+    {
+      "id": "solutions-overview",
+      "name": "SolutionsOverviewPage",
+      "urlPatterns": [
+        "/solutions-overview/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/solutions-overview/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Solving the real challenges facing today’s agencies",
+        "Less staff. More data. Higher stakes.",
+        "$627M+",
+        "<3%",
+        "20-yr",
+        "Solutions by category",
+        "Powered by LeoTech",
+        "Powered by Verus AI",
+        "Powered by Verus Vision AI",
+        "Powered by Verus ION",
+        "Powered by Verus Voice AI",
+        "Why LeoTech",
+        "Purpose-built for corrections",
+        "Operator-first design",
+        "Expert training & crisis support",
+        "Proven at scale",
+        "13K+",
+        "5.3B+",
+        "1.2B+",
+        "247",
+        "38K+",
+        "See LeoTech in action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /product-overview/, shares 41% of its layout and 18% of its headings)"
+      }
+    },
+    {
+      "id": "about",
+      "name": "AboutPage",
+      "urlPatterns": [
+        "/about/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/about/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Scroll to learn more",
+        "Our vision",
+        "Our mission",
+        "What we believe",
+        "Innovation is our responsibility",
+        "Officers deserve the best",
+        "Every second counts",
+        "Our story",
+        "That’s what we built",
+        "And we’re just getting started_",
+        "Our values",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Previous"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Previous']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/about/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/about/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /ai-for-video/, shares 36% of its layout and 7% of its headings)"
+      }
+    },
+    {
+      "id": "news-resources",
+      "name": "NewsResourcesPage",
+      "urlPatterns": [
+        "/news-resources/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/news-resources/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "News & resources",
+        "11/13/2026",
+        "10/23/2026",
+        "The Next Era of Public Safety: From AI to Super Intelligence",
+        "11/04/2026",
+        "ICE Plans AI Spy Tools Targeting Detainees",
+        "10/21/2026",
+        "Leadership Under Pressure: Stan Manning in JUSTICE TRENDS Magazine",
+        "10/13/2026",
+        "10/09/2026",
+        "AI as the Intelligence Layer for Modern Corrections"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "post",
+          "count": 14,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/",
+            "href": "https://leotechnologies.com/leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/",
+            "text": "link"
+          }
+        },
+        {
+          "template": "the-verus-platform-how",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/",
+            "href": "https://leotechnologies.com/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/",
+            "text": "link",
+            "hidden": true
+          }
+        },
+        {
+          "template": "the-next-era",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/the-next-era-of-public-safety-from-ai-to-super-intelligence/",
+            "href": "https://leotechnologies.com/the-next-era-of-public-safety-from-ai-to-super-intelligence/",
+            "text": "link"
+          }
+        },
+        {
+          "template": "georgia-department-of-corrections",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/georgia-department-of-corrections/",
+            "href": "https://leotechnologies.com/georgia-department-of-corrections/",
+            "text": "link",
+            "hidden": true
+          }
+        },
+        {
+          "template": "aca-caring-connections-program",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/",
+            "href": "https://leotechnologies.com/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/",
+            "text": "link"
+          }
+        },
+        {
+          "template": "state-of-texas-announces",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/state-of-texas-announces-resolution-about-100-murder-closure/",
+            "href": "https://leotechnologies.com/state-of-texas-announces-resolution-about-100-murder-closure/",
+            "text": "link",
+            "hidden": true
+          }
+        },
+        {
+          "template": "leotech-and-verus-supporting",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/",
+            "href": "https://leotechnologies.com/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/",
+            "text": "link",
+            "hidden": true
+          }
+        },
+        {
+          "template": "what-is-leotech",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/news-resources/",
+            "to": "https://leotechnologies.com/what-is-leotech/",
+            "href": "https://leotechnologies.com/what-is-leotech/",
+            "text": "link",
+            "hidden": true
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "All"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='All']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Blog"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Blog']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Success Stories"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Success Stories']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Firm News"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Firm News']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Press"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Press']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Customer Stories"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Customer Stories']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "White Paper"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='White Paper']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Load More"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Load More']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/news-resources/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leadership-under-pressure-lessons-from-special-forces-to-corrections/, shares 33% of its layout and 8% of its headings)"
+      }
+    },
+    {
+      "id": "careers",
+      "name": "CareersPage",
+      "urlPatterns": [
+        "/careers/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/careers/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Get to know us",
+        "What’s in it for you",
+        "Modern tech stack",
+        "Unique datasets",
+        "Real-world results",
+        "Impact",
+        "Flexibility",
+        "Open positions",
+        "SDET",
+        "Field Technical Engineer",
+        "Agentic Development Platform Engineer",
+        "DevOps Engineer",
+        "DevOps Manager",
+        "AI Engineer",
+        "Contact our recruitment team",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Message(Required)",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "Full Name(Required)",
+            "input_1"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_3_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/careers/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email Address(Required)",
+            "input_3"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_3_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/careers/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Phone Number",
+            "input_4"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_3_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/careers/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Message(Required)",
+            "input_5"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@id='input_3_5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/careers/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit Application"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//button[@id='gform_submit_button_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/careers/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /request-a-demo/, shares 52% of its layout and 17% of its headings)"
+      }
+    },
+    {
+      "id": "contact",
+      "name": "ContactPage",
+      "urlPatterns": [
+        "/contact/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/contact/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Send us a message",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Organization",
+        "Subject(Required)",
+        "Message(Required)",
+        "Contact information",
+        "Headquarters",
+        "Email"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "Full Name(Required)",
+            "input_1"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_1_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email Address(Required)",
+            "input_4"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_1_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Phone Number",
+            "input_3"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_1_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Organization",
+            "input_5"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_1_5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Subject(Required)",
+            "input_6"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_1_6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Message(Required)",
+            "input_7"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@id='input_1_7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Send Message"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//button[@id='gform_submit_button_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/contact/"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /request-a-demo/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "request-ademo",
+      "name": "RequestADemoPage",
+      "urlPatterns": [
+        "/request-a-demo/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/request-a-demo/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Request a Demo",
+        "Schedule your demo today.",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Organization",
+        "Subject(Required)",
+        "Message(Required)"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "Full Name(Required)",
+            "input_1"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_2_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email Address(Required)",
+            "input_3"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_2_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Phone Number",
+            "input_4"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_2_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Organization",
+            "input_5"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_2_5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Subject(Required)",
+            "input_6"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_2_6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Message(Required)",
+            "input_7"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@id='input_2_7']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit Application"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//button[@id='gform_submit_button_2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/request-a-demo/"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /contact/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "product-overview",
+      "name": "ProductOverviewPage",
+      "urlPatterns": [
+        "/product-overview/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/product-overview/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "The intelligence platform built for public safety",
+        "13K+",
+        "5.3B+",
+        "1.2B+",
+        "247",
+        "38K+",
+        "The Verus platform",
+        "Technology evolution",
+        "Continuousmonitoring",
+        "Keywordsearch",
+        "Linkanalysis",
+        "SemanticAI",
+        "AgenticAI",
+        "Why LeoTech",
+        "Purpose-built architecture",
+        "Multimodal intelligence",
+        "Single pane of glass",
+        "See the platform in action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /solutions-overview/, shares 41% of its layout and 18% of its headings)"
+      }
+    },
+    {
+      "id": "verus-ion",
+      "name": "VerusIonPage",
+      "urlPatterns": [
+        "/verus-ion/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/verus-ion/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "All your data. One operational view.",
+        "The problem it solves",
+        "The problem",
+        "Siloed, Fragmented Data",
+        "The solution",
+        "One AI-Assisted Dashboard",
+        "How it works",
+        "01",
+        "02",
+        "03",
+        "Core capabilities",
+        "Multi-sourceintelligence fusion",
+        "Cross-system risk correlation",
+        "Real-time threat prioritization",
+        "Facility-wide pattern detection",
+        "Inter-agencycoordination",
+        "What separates Verus ION",
+        "Other solutions",
+        "Explore the rest of the platform",
+        "DiscoverVerus ION"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /verus-vision-ai/, shares 86% of its layout and 8% of its headings)"
+      }
+    },
+    {
+      "id": "verus-ai",
+      "name": "VerusAiPage",
+      "urlPatterns": [
+        "/verus-ai/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/verus-ai/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Turn every conversation into actionable intelligence",
+        "One platform. All your intelligence. Instant results.",
+        "Single AI-powered platform",
+        "How it works",
+        "01",
+        "02",
+        "03",
+        "Core capabilities",
+        "Agentic AI",
+        "Semantic AI",
+        "Generative AI",
+        "“Verus AI accelerates investigativeworkflows by 10x”",
+        "Key features",
+        "Link analysis",
+        "Continuous monitoring",
+        "Lexicon",
+        "Knowns & unknowns",
+        "Report writing",
+        "Search assist",
+        "Multi-language support",
+        "Human-in-the-loop",
+        "Explore the rest of the platform",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /verus-ion/, shares 62% of its layout and 16% of its headings)"
+      }
+    },
+    {
+      "id": "verus-voice-ai",
+      "name": "VerusVoiceAiPage",
+      "urlPatterns": [
+        "/verus-voice-ai/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/verus-voice-ai/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Know the voice behind every call",
+        "Explore the rest of the platform",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /ai-for-video/, shares 59% of its layout and 20% of its headings)"
+      }
+    },
+    {
+      "id": "verus-vision-ai",
+      "name": "VerusVisionAiPage",
+      "urlPatterns": [
+        "/verus-vision-ai/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/verus-vision-ai/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "See what cameras alone can’t tell you",
+        "The problem it solves",
+        "The manual burden",
+        "$1.5B+",
+        "62.7M",
+        "5 hrs/day",
+        "Verus Vision AI savings",
+        "$627M+",
+        "37.6M",
+        "3 hrs/day",
+        "Core capabilities",
+        "Automated inmatecount",
+        "Abnormal behaviordetection",
+        "Missing inmatealert",
+        "Behavioral riskdetection",
+        "Movement & interaction analysis",
+        "Perimeter & environmental awareness",
+        "What separates Vision AI",
+        "Other solutions",
+        "Explore the rest of the platform",
+        "DiscoverVerus Vision AI"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /verus-ion/, shares 86% of its layout and 8% of its headings)"
+      }
+    },
+    {
+      "id": "ai-for-wellness",
+      "name": "AiForWellnessPage",
+      "urlPatterns": [
+        "/ai-for-wellness/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/ai-for-wellness/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Protecting life requires earlier visibility and faster action",
+        "AI for wellness solution use cases",
+        "ExploreVerus platform",
+        "See the platform in action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /ai-for-video/, shares 70% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "ai-for-communications",
+      "name": "AiForCommunicationsPage",
+      "urlPatterns": [
+        "/ai-for-communications/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/ai-for-communications/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "AI forcommunications",
+        "Verus AI solution use cases",
+        "Learn more aboutVerus AI",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /ai-for-video/, /ai-for-facility-operations/, /ai-for-voice-biometrics/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "ai-for-video",
+      "name": "AiForVideoPage",
+      "urlPatterns": [
+        "/ai-for-video/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/ai-for-video/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Verus Vision AI solution use cases",
+        "Explore Verus Vision AI",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /ai-for-communications/, /ai-for-facility-operations/, /ai-for-voice-biometrics/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "ai-for-facility-operations",
+      "name": "AiForFacilityOperationsPage",
+      "urlPatterns": [
+        "/ai-for-facility-operations/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/ai-for-facility-operations/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Verus IONsolution use cases",
+        "DiscoverVerus ION",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /ai-for-communications/, /ai-for-video/, /ai-for-voice-biometrics/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "ai-for-voice-biometrics",
+      "name": "AiForVoiceBiometricsPage",
+      "urlPatterns": [
+        "/ai-for-voice-biometrics/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/ai-for-voice-biometrics/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "AI forvoice biometrics",
+        "Verus Voice AI solution use cases",
+        "Explore Verus Voice AI",
+        "See LeoTechin action"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /ai-for-communications/, /ai-for-video/, /ai-for-facility-operations/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "partnerships",
+      "name": "PartnershipsPage",
+      "urlPatterns": [
+        "/partnerships/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/partnerships/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Partnerships",
+        "Become a Partner"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "partners-aws-partner",
+          "count": 1,
+          "example": {
+            "from": "https://leotechnologies.com/partnerships/",
+            "to": "https://leotechnologies.com/aws-partner",
+            "href": "https://leotechnologies.com/aws-partner",
+            "text": "Visit Website",
+            "hidden": true,
+            "newTab": true
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "All"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='All']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/partnerships/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Industry"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Industry']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/partnerships/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Technical"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Technical']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/partnerships/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Design"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Design']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/partnerships/"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /state-of-texas-announces-resolution-about-100-murder-closure/, shares 39% of its layout and 17% of its headings)"
+      }
+    },
+    {
+      "id": "dir",
+      "name": "DirPage",
+      "urlPatterns": [
+        "/dir/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/dir/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Texas Department of Information Resources (DIR) Contract",
+        "Product & Services Overview",
+        "LEO Technologies Verus Software Subscription Service",
+        "Related Services",
+        "Contract Pricing",
+        "Contract Number: DIR-CPO-5165 and DIR-CPO-5293",
+        "Service Description",
+        "Unit of Issue",
+        "Price Per Unit",
+        "Volume Discount Off Price Per Unit",
+        "Product",
+        "Volume Discount by Quantity",
+        "Frequency",
+        "Discount % Off",
+        "Purchase Orders/Quotes",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Message(Required)",
+        "Contact Information",
+        "Warranty",
+        "Department of Information Resources"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "Full Name(Required)",
+            "input_1"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email Address(Required)",
+            "input_3"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Phone Number",
+            "input_4"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Message(Required)",
+            "input_5"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@id='input_4_5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//button[@id='gform_submit_button_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir/"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /dir-cpo-6149/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "dir-cpo",
+      "name": "DirCpoPage",
+      "urlPatterns": [
+        "/dir-cpo-6149/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/dir-cpo-6149/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "Texas Department of Information Resources (DIR) Contract",
+        "Product & Services Overview",
+        "LEO Technologies Verus Software Subscription Service",
+        "Verus ID – Recipient Number Intelligence",
+        "Related Services",
+        "Contract Pricing",
+        "Contract Number: DIR-CPO-6149",
+        "Product",
+        "Description",
+        "MSRP",
+        "Discount of list price",
+        "Unit of measure",
+        "DIR customer price",
+        "Volume Discount Off Price Per Unit",
+        "Category",
+        "Discount",
+        "Purchase Orders/Quotes",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Message(Required)",
+        "Contact Information",
+        "Warranty",
+        "Department of Information Resources"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "Full Name(Required)",
+            "input_1"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir-cpo-6149/"
+        },
+        {
+          "kind": "email field",
+          "words": [
+            "Email Address(Required)",
+            "input_3"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir-cpo-6149/"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Phone Number",
+            "input_4"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//input[@id='input_4_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir-cpo-6149/"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Message(Required)",
+            "input_5"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//textarea[@id='input_4_5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir-cpo-6149/"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//button[@id='gform_submit_button_4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://leotechnologies.com/dir-cpo-6149/"
+        }
+      ],
+      "why": {
+        "rule": "layout-only",
+        "says": "laid out like /dir/, but no title or heading says they are one kind of page, and their addresses share no part: each is its own"
+      }
+    },
+    {
+      "id": "the-verus-platform-how",
+      "name": "TheVerusPlatformHowPage",
+      "urlPatterns": [
+        "/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "08/01/2026",
+        "The Verus Platform: How AI Is Reshaping America’s Correctional Facilities",
+        "Share",
+        "Verus Voice AI: Uncovering Hidden Threats in Communications",
+        "Verus ION: The Intelligence Hub that Ties it All Together",
+        "Verus Vision AI: Turning Passive Cameras into Active Intelligence",
+        "Leading Through Innovation"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/, shares 87% of its layout and 13% of its headings)"
+      }
+    },
+    {
+      "id": "post",
+      "name": "PostPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://leotechnologies.com/suffolk-county-sheriffs-office-awarded-700k-for-innovative-policing-strategies/",
+        "https://leotechnologies.com/georgia-department-of-corrections-chooses-leotech-to-combat-criminal-activity/",
+        "https://leotechnologies.com/covid-19-correctional-leaders-association-resources-made-live/",
+        "https://leotechnologies.com/leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/",
+        "https://leotechnologies.com/sheriffs-office-uses-intel-to-fight-ms-13/",
+        "https://leotechnologies.com/leo-technologies-launches-verus-vision-ai-transforming-correctional-cameras-into-active-operational-intelligence/",
+        "https://leotechnologies.com/national-sheriffs-association-teams-with-leotech-on-covid-19-industry-action-group-for-correctional-facilities/",
+        "https://leotechnologies.com/leotech-named-to-aws-public-safety-and-disaster-response-competency/",
+        "https://leotechnologies.com/verus-featured-in-sheriff-deputy-magazine/",
+        "https://leotechnologies.com/leo-technologies-launches-verus-voice-ai-giving-corrections-agencies-a-defensible-way-to-stop-personal-identification-number-pin-abuse-in-real-time/",
+        "https://leotechnologies.com/leadership-under-pressure-lessons-from-special-forces-to-corrections/",
+        "https://leotechnologies.com/fbi-el-paso-and-u-s-border-patrol-capture-international-fugitive/",
+        "https://leotechnologies.com/leo-technologies-launches-verus-ion-an-agentic-ai-powered-unified-intelligence-and-investigative-solution-for-corrections-and-public-safety/",
+        "https://leotechnologies.com/leotech-partners-with-deliverfund-to-fight-human-trafficking/"
+      ],
+      "repeated": true,
+      "knownUrls": 14,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Share"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "family-by-evidence",
+        "says": "its 14 pages read look alike (layout 93% the same, headings 24%), and every page says it is one kind (single:post); joined by: the layouts agree, with some headings shared (91 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 91
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-next-era",
+      "name": "TheNextEraPage",
+      "urlPatterns": [
+        "/the-next-era-of-public-safety-from-ai-to-super-intelligence/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/the-next-era-of-public-safety-from-ai-to-super-intelligence/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "10/23/2026",
+        "The Next Era of Public Safety: From AI to Super Intelligence",
+        "Share",
+        "Governed Innovation in Service of Correctional and Community Safety",
+        "The Evolution of Artificial Intelligence Systems",
+        "Advancing the Next Generation of Public Safety Technology"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/, shares 68% of its layout and 14% of its headings)"
+      }
+    },
+    {
+      "id": "georgia-department-of-corrections",
+      "name": "GeorgiaDepartmentOfCorrectionsPage",
+      "urlPatterns": [
+        "/georgia-department-of-corrections/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/georgia-department-of-corrections/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "02/20/2026",
+        "Georgia Department of Corrections",
+        "Share",
+        "From days to minutes: Georgia’s AI transformation",
+        "The challenge",
+        "The solution",
+        "The impact"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/, shares 86% of its layout and 13% of its headings)"
+      }
+    },
+    {
+      "id": "aca-caring-connections-program",
+      "name": "AcaCaringConnectionsProgramPage",
+      "urlPatterns": [
+        "/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "10/13/2026",
+        "Share",
+        "ACA Leadership Applauds Commitment",
+        "Families Share the Impact",
+        "Investing in the Future of Corrections Families",
+        "About the ACA Caring Connections Program",
+        "Media Contact"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/, shares 87% of its layout and 13% of its headings)"
+      }
+    },
+    {
+      "id": "state-of-texas-announces",
+      "name": "StateOfTexasAnnouncesPage",
+      "urlPatterns": [
+        "/state-of-texas-announces-resolution-about-100-murder-closure/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/state-of-texas-announces-resolution-about-100-murder-closure/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "01/01/2026",
+        "State of Texas Announces Resolution About 100% Murder Closure",
+        "Share",
+        "State of Texas",
+        "Resolution"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /leo-technologies-launches-verus-vision-ai-transforming-correctional-cameras-into-active-operational-intelligence/, shares 92% of its layout and 17% of its headings)"
+      }
+    },
+    {
+      "id": "partners-aws-partner",
+      "name": "PartnersAwsPartnerPage",
+      "urlPatterns": [
+        "/partners/aws-partner/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/partners/aws-partner/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /privacy-policy/, shares 81% of its layout)"
+      }
+    },
+    {
+      "id": "leotech-and-verus-supporting",
+      "name": "LeotechAndVerusSupportingPage",
+      "urlPatterns": [
+        "/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "03/19/2020",
+        "Share",
+        "Incidents related to Covid-19",
+        "Rumors of infectious disease",
+        "Threat of Violence",
+        "Inmate Health",
+        "Officer Safety",
+        "Sick Inmate",
+        "Public Health",
+        "Health Watch"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /covid-19-correctional-leaders-association-resources-made-live/, shares 91% of its layout and 8% of its headings)"
+      }
+    },
+    {
+      "id": "what-is-leotech",
+      "name": "WhatIsLeotechPage",
+      "urlPatterns": [
+        "/what-is-leotech/"
+      ],
+      "pages": [
+        "https://leotechnologies.com/what-is-leotech/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "",
+      "sharedHeadings": [
+        "07/29/2020",
+        "What is LeoTech?",
+        "Share",
+        "LeoTech from the beginning",
+        "Filling the resource gap",
+        "Sharing information, caring for inmate well-being"
+      ],
+      "inMenu": false,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /national-sheriffs-association-teams-with-leotech-on-covid-19-industry-action-group-for-correctional-facilities/, shares 95% of its layout and 14% of its headings)"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://leotechnologies.com/verus-ai-new/",
+      "reason": "duplicate of https://leotechnologies.com/verus-ai/"
+    },
+    {
+      "url": "https://leotechnologies.com/news-resources/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/",
+      "reason": "answered 404 (a broken link)"
+    },
+    {
+      "url": "https://leotechnologies.com/verus/",
+      "reason": "duplicate of https://leotechnologies.com/verus-ai/"
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (compatible; SuiteBuilder/1.0; +https://github.com/Ghost-in-the-Kernel-Labs/Ghost-in-the-Kernel-Labs-suite-builder-docs)",
+  "brokenLinks": [
+    {
+      "url": "https://leotechnologies.com/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/",
+      "status": 404,
+      "linkedFrom": [
+        "https://leotechnologies.com/verus-featured-in-sheriff-deputy-magazine/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "code": "SITE-02",
+      "severity": "major",
+      "listed": [
+        "link",
+        "links"
+      ],
+      "title": "1 broken link: the site links to an address that answers an error",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/",
+          "says": "answered 404; linked from /verus-featured-in-sheriff-deputy-magazine/",
+          "link": {
+            "paths": [
+              "/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/",
+              "/news-resources/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/"
+            ],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/verus-featured-in-sheriff-deputy-magazine/"
+            ],
+            "more": 0,
+            "why": "broken"
+          }
+        }
+      ],
+      "why": "A visitor who follows one of these links reaches an error instead of the page promised.",
+      "fix": "Point each link at a page that exists, or bring the page back (or redirect its old address to where it went)."
+    },
+    {
+      "code": "SITE-21",
+      "severity": "major",
+      "title": "The site's own scripts throw 1 error on 41 pages",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/privacy-policy/",
+          "says": "Cannot read properties of null (reading 'querySelector'), on every page but /, /about/"
+        }
+      ],
+      "listed": [
+        "error",
+        "errors"
+      ],
+      "why": "An error nothing catches stops the script that threw it: whatever it was doing (a form's checks, a cart, tracking) is left undone. Visitors never report it; it is seen only in the browser's console.",
+      "fix": "Open the page with the browser's developer tools, read the console, and fix each error where its stack points."
+    },
+    {
+      "code": "SITE-04",
+      "severity": "minor",
+      "title": "43 pages have no title",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/privacy-policy/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/solutions-overview/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/about/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/news-resources/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/careers/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/contact/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/request-a-demo/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/product-overview/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-ion/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-ai/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-voice-ai/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-vision-ai/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/ai-for-wellness/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/ai-for-communications/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/ai-for-video/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/ai-for-facility-operations/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/ai-for-voice-biometrics/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/partnerships/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/dir/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/dir-cpo-6149/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/suffolk-county-sheriffs-office-awarded-700k-for-innovative-policing-strategies/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/the-next-era-of-public-safety-from-ai-to-super-intelligence/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/georgia-department-of-corrections-chooses-leotech-to-combat-criminal-activity/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/georgia-department-of-corrections/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/covid-19-correctional-leaders-association-resources-made-live/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-joins-the-2026-big-blue-bash-to-support-families-of-fallen-officers/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/sheriffs-office-uses-intel-to-fight-ms-13/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-vision-ai-transforming-correctional-cameras-into-active-operational-intelligence/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/national-sheriffs-association-teams-with-leotech-on-covid-19-industry-action-group-for-correctional-facilities/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-named-to-aws-public-safety-and-disaster-response-competency/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/state-of-texas-announces-resolution-about-100-murder-closure/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/partners/aws-partner/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-featured-in-sheriff-deputy-magazine/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-voice-ai-giving-corrections-agencies-a-defensible-way-to-stop-personal-identification-number-pin-abuse-in-real-time/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leadership-under-pressure-lessons-from-special-forces-to-corrections/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/what-is-leotech/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/fbi-el-paso-and-u-s-border-patrol-capture-international-fugitive/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-ion-an-agentic-ai-powered-unified-intelligence-and-investigative-solution-for-corrections-and-public-safety/",
+          "says": "no title"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-partners-with-deliverfund-to-fight-human-trafficking/",
+          "says": "no title"
+        }
+      ],
+      "why": "Search results, bookmarks and browser tabs show the title: pages that share one can't be told apart, and a page without one shows its address.",
+      "fix": "Give each page a title of its own that names what it shows (in a single-page app, set it on each route)."
+    },
+    {
+      "code": "SITE-17",
+      "severity": "minor",
+      "title": "21 pages have no description for search results",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/suffolk-county-sheriffs-office-awarded-700k-for-innovative-policing-strategies/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/the-next-era-of-public-safety-from-ai-to-super-intelligence/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/georgia-department-of-corrections-chooses-leotech-to-combat-criminal-activity/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/georgia-department-of-corrections/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/covid-19-correctional-leaders-association-resources-made-live/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/sheriffs-office-uses-intel-to-fight-ms-13/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-vision-ai-transforming-correctional-cameras-into-active-operational-intelligence/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/national-sheriffs-association-teams-with-leotech-on-covid-19-industry-action-group-for-correctional-facilities/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-named-to-aws-public-safety-and-disaster-response-competency/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/state-of-texas-announces-resolution-about-100-murder-closure/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/partners/aws-partner/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-featured-in-sheriff-deputy-magazine/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-voice-ai-giving-corrections-agencies-a-defensible-way-to-stop-personal-identification-number-pin-abuse-in-real-time/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leadership-under-pressure-lessons-from-special-forces-to-corrections/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/what-is-leotech/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/fbi-el-paso-and-u-s-border-patrol-capture-international-fugitive/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leo-technologies-launches-verus-ion-an-agentic-ai-powered-unified-intelligence-and-investigative-solution-for-corrections-and-public-safety/",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://leotechnologies.com/leotech-partners-with-deliverfund-to-fight-human-trafficking/",
+          "says": "no meta description"
+        }
+      ],
+      "why": "Search results show the description under the title; without one, the search engine picks a line of the page, often the menu or a cookie notice.",
+      "fix": "Give each page a <meta name=\"description\"> of a sentence or two saying what it offers."
+    },
+    {
+      "code": "SITE-03",
+      "severity": "minor",
+      "listed": [
+        "link",
+        "links"
+      ],
+      "title": "4 of the site's own links redirect before they arrive",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/dir",
+          "says": "301 to /dir/"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-ai-new/",
+          "says": "301 to /verus-ai/"
+        },
+        {
+          "url": "https://leotechnologies.com/news-resources/leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/",
+          "says": "301 to /leo-technologies-partners-with-deliverfund-to-fight-human-trafficking/"
+        },
+        {
+          "url": "https://leotechnologies.com/verus/",
+          "says": "301 to /verus-ai/"
+        }
+      ],
+      "why": "Every click on one of these links costs an extra round trip before the page starts loading, and search engines see one page at two addresses.",
+      "fix": "Link to each page's final address (with or without its trailing slash, as the server serves it)."
+    },
+    {
+      "code": "SITE-24",
+      "severity": "minor",
+      "listed": [
+        "missing header",
+        "missing headers"
+      ],
+      "title": "4 security headers no page sends",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "no page of the site sends Strict-Transport-Security (without it, browsers are not told to keep to https)"
+        },
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "no page of the site sends Content-Security-Policy (without it, nothing limits which scripts a page may run)"
+        },
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "no page of the site sends X-Frame-Options or frame-ancestors (without it, another site can frame the page to trick a click)"
+        },
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "no page of the site sends X-Content-Type-Options: nosniff (without it, a browser may guess a file's type from its content)"
+        }
+      ],
+      "why": "Each header closes off one way the site could be misused (a downgrade to http, a script slipped in, the site framed in another to trick a click). A missing one is a weaker defence, not a sign the site has been attacked; security reviews ask for them, and each costs a line of server configuration.",
+      "fix": "Add the missing headers in the web server or the CDN (one setting each), starting with Strict-Transport-Security."
+    },
+    {
+      "code": "SITE-15",
+      "severity": "minor",
+      "title": "3 pages have no main heading",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/dir/",
+          "says": "no h1 with words shown"
+        },
+        {
+          "url": "https://leotechnologies.com/dir-cpo-6149/",
+          "says": "no h1 with words shown"
+        },
+        {
+          "url": "https://leotechnologies.com/partners/aws-partner/",
+          "says": "no h1 with words shown"
+        }
+      ],
+      "why": "Screen reader users jump to the h1 to learn what a page is, and search engines read it as the page's subject; none, or several competing, says neither.",
+      "fix": "Give each page one h1 naming what it shows; the site's name in the header is not it."
+    },
+    {
+      "code": "SITE-03",
+      "severity": "minor",
+      "listed": [
+        "link",
+        "links"
+      ],
+      "title": "1 of the site's own links in a closed part of the page redirects before it arrives",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/aws-partner",
+          "says": "301 to /partners/aws-partner/"
+        }
+      ],
+      "why": "Each is linked only from a part of the page that is closed when it loads (a menu, a tab, an answer that opens on a click, a link shown on hover): the crawler cannot tell whether a visitor opens it, so these are said apart, and as minor. Every click on one of these links costs an extra round trip before the page starts loading, and search engines see one page at two addresses.",
+      "fix": "Link to each page's final address (with or without its trailing slash, as the server serves it)."
+    },
+    {
+      "code": "SITE-35",
+      "severity": "minor",
+      "listed": [
+        "host",
+        "hosts"
+      ],
+      "title": "Requests to 1 host of other sites failed during the crawl, as seen from the crawler's machine and network",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "`vimeo.com`: 4 pages asked it for data and the request failed (404); the name resolves from here, so the request failed for another reason"
+        }
+      ],
+      "why": "A script on the page asked another site's host for data (a third party's logging, analytics or a widget) and got an error or no answer. This was seen from the crawler's own machine and network only: an ad blocker, the region, DNS filtering or the crawler's own network can cause the same failure, and it may not fail for real visitors. The crawl cannot tell whether a page needs the answer. Where the crawl looked the name up from here, the line says so; \"does not resolve\" is stronger than \"the request failed\" (the host is probably gone), but it too is seen from here. It stops no build and no test.",
+      "fix": "If a name does not resolve, the host is probably gone: remove its snippet or tag from the site. Otherwise open the page from an ordinary browser and network; if the request works there, there is nothing to fix."
+    },
+    {
+      "code": "SITE-29",
+      "severity": "minor",
+      "listed": [
+        "address",
+        "addresses"
+      ],
+      "title": "The site publishes no security.txt, the file that tells security researchers whom to contact",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/.well-known/security.txt",
+          "says": "answered 404"
+        }
+      ],
+      "why": "Researchers who find a security problem look for /.well-known/security.txt to know whom to tell (RFC 9116); without it they may not report it, or report it publicly.",
+      "fix": "Publish /.well-known/security.txt with a Contact line (an email address or a form) and an Expires line."
+    },
+    {
+      "code": "SITE-40",
+      "severity": "info",
+      "unconfirmed": true,
+      "title": "5 errors came from a source the crawl could not tell on 4 pages, as seen by an automated visitor: unconfirmed (no script was named as their source); check in a browser",
+      "where": [
+        {
+          "url": "https://leotechnologies.com/",
+          "says": "2 errors of no known source: Unexpected non-whitespace character after JSON at position 11 (line 1 column 12)"
+        },
+        {
+          "url": "https://leotechnologies.com/about/",
+          "says": "1 error of no known source: Unexpected non-whitespace character after JSON at position 11 (line 1 column 12)"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-ai/",
+          "says": "1 error of no known source: Unexpected non-whitespace character after JSON at position 11 (line 1 column 12)"
+        },
+        {
+          "url": "https://leotechnologies.com/verus-voice-ai/",
+          "says": "1 error of no known source: Unexpected non-whitespace character after JSON at position 11 (line 1 column 12)"
+        }
+      ],
+      "why": "An error whose stack names no script cannot be traced to the site or to another site: \"A network error occurred.\" is the browser's own word for a request that failed, and the crawler blocks fonts, video and ad hosts, and meets bot challenges, that a person's browser does not, so it is not said as the site's.",
+      "fix": "Open the page in an ordinary browser with the developer tools' network tab and console. If the request fails there too, check the embed's address and the account with that service, or remove the embed. An error that shows in the console there too names its script there: fix it at that line."
+    }
+  ],
+  "nearCopies": [
+    {
+      "a": "dir",
+      "b": "dir-cpo",
+      "pages": [
+        "https://leotechnologies.com/dir/",
+        "https://leotechnologies.com/dir-cpo-6149/"
+      ],
+      "shared": [
+        "Texas Department of Information Resources (DIR) Contract",
+        "Product & Services Overview",
+        "LEO Technologies Verus Software Subscription Service",
+        "Related Services",
+        "Contract Pricing",
+        "Volume Discount Off Price Per Unit",
+        "Product",
+        "Purchase Orders/Quotes",
+        "Full Name(Required)",
+        "Email Address(Required)",
+        "Phone Number",
+        "Message(Required)",
+        "Contact Information",
+        "Warranty",
+        "Department of Information Resources"
+      ]
+    }
+  ]
+}

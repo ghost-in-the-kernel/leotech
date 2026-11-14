@@ -1,0 +1,47 @@
+{
+  "tool": "suite-builder",
+  "version": "1.39.0",
+  "generator": {
+    "deterministic": true,
+    "models": "none"
+  },
+  "build": {
+    "commit": "a4c80450f346bef152bd7bf8defea5f9efc56613",
+    "branch": "main"
+  },
+  "framework": "playwright",
+  "generatedAt": "2026-11-14T16:57:00.918Z",
+  "command": "suite-builder build https://leotechnologies.com/",
+  "templates": "crawl/leotechnologies.com.templates.json",
+  "crawl": "crawl/leotechnologies.com.crawl.json",
+  "crawlFileSaved": "2026-11-14T16:56:59.913Z",
+  "pages": {
+    "ship": "all",
+    "crawl": "ebfd292ff2930f30",
+    "signedIn": false,
+    "roles": []
+  },
+  "accounts": [
+    {
+      "role": "user",
+      "file": "secrets/user.login",
+      "environment": [
+        "SUITE_USER_USERNAME",
+        "SUITE_USER_PASSWORD"
+      ],
+      "docked": "<Suite Builder's secrets folder, DOCK.md's last line>/<site>/user.login"
+    },
+    {
+      "role": "admin",
+      "file": "secrets/admin.login",
+      "environment": [
+        "SUITE_ADMIN_USERNAME",
+        "SUITE_ADMIN_PASSWORD"
+      ],
+      "docked": "<Suite Builder's secrets folder, DOCK.md's last line>/<site>/admin.login"
+    }
+  ],
+  "classes": [
+    "audit"
+  ]
+}

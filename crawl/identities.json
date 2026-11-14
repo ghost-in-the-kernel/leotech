@@ -1,0 +1,396 @@
+{
+  "tool": "suite-builder",
+  "ledgerVersion": 1,
+  "entities": [
+    {
+      "id": "type:/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "HomePage",
+      "patterns": [
+        "/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/privacy-policy/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "PrivacyPolicyPage",
+      "patterns": [
+        "/privacy-policy/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/solutions-overview/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "SolutionsOverviewPage",
+      "patterns": [
+        "/solutions-overview/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/about/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AboutPage",
+      "patterns": [
+        "/about/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/news-resources/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "NewsResourcesPage",
+      "patterns": [
+        "/news-resources/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/careers/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "CareersPage",
+      "patterns": [
+        "/careers/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/contact/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "ContactPage",
+      "patterns": [
+        "/contact/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/request-a-demo/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "RequestADemoPage",
+      "patterns": [
+        "/request-a-demo/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/product-overview/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "ProductOverviewPage",
+      "patterns": [
+        "/product-overview/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/verus-ion/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "VerusIonPage",
+      "patterns": [
+        "/verus-ion/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/verus-ai/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "VerusAiPage",
+      "patterns": [
+        "/verus-ai/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/verus-voice-ai/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "VerusVoiceAiPage",
+      "patterns": [
+        "/verus-voice-ai/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/verus-vision-ai/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "VerusVisionAiPage",
+      "patterns": [
+        "/verus-vision-ai/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/ai-for-wellness/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AiForWellnessPage",
+      "patterns": [
+        "/ai-for-wellness/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/ai-for-communications/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AiForCommunicationsPage",
+      "patterns": [
+        "/ai-for-communications/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/ai-for-video/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AiForVideoPage",
+      "patterns": [
+        "/ai-for-video/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/ai-for-facility-operations/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AiForFacilityOperationsPage",
+      "patterns": [
+        "/ai-for-facility-operations/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/ai-for-voice-biometrics/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AiForVoiceBiometricsPage",
+      "patterns": [
+        "/ai-for-voice-biometrics/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/partnerships/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "PartnershipsPage",
+      "patterns": [
+        "/partnerships/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/dir/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "DirPage",
+      "patterns": [
+        "/dir/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/dir-cpo-6149/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "DirCpoPage",
+      "patterns": [
+        "/dir-cpo-6149/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "TheVerusPlatformHowPage",
+      "patterns": [
+        "/the-verus-platform-how-ai-is-reshaping-americas-correctional-facilities/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/*",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "PostPage",
+      "patterns": [
+        "/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/the-next-era-of-public-safety-from-ai-to-super-intelligence/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "TheNextEraPage",
+      "patterns": [
+        "/the-next-era-of-public-safety-from-ai-to-super-intelligence/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/georgia-department-of-corrections/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "GeorgiaDepartmentOfCorrectionsPage",
+      "patterns": [
+        "/georgia-department-of-corrections/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "AcaCaringConnectionsProgramPage",
+      "patterns": [
+        "/aca-caring-connections-program-receives-transformational-500000-gift-from-elliott-broidy-to-support-corrections-families-nationwide/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/state-of-texas-announces-resolution-about-100-murder-closure/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "StateOfTexasAnnouncesPage",
+      "patterns": [
+        "/state-of-texas-announces-resolution-about-100-murder-closure/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/partners/aws-partner/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "PartnersAwsPartnerPage",
+      "patterns": [
+        "/partners/aws-partner/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "LeotechAndVerusSupportingPage",
+      "patterns": [
+        "/leotech-and-verus-supporting-our-nations-correctional-facilities-during-the-covid-19-pandemic/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    },
+    {
+      "id": "type:/what-is-leotech/",
+      "kind": "page-type",
+      "introducedAt": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7",
+      "cls": "WhatIsLeotechPage",
+      "patterns": [
+        "/what-is-leotech/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "ebfd292ff2930f300df231a81c33904a4dd1f90b1a873d7b7f9e0346b24ea5f7"
+      }
+    }
+  ]
+}
